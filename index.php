@@ -1,2 +1,3 @@
 <?php
-echo phoinfo();
+echo phoinfo();     
+echo "11111"; 
